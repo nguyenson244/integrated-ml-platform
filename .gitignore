@@ -1,0 +1,4 @@
+models_saved/
+data/processed/
+__pycache__/
+*.pyc
