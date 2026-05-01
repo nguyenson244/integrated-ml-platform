@@ -1,4 +1,38 @@
+# Data and Models
 models_saved/
-data/processed/
+data/
+*.csv
+*.parquet
+*.h5
+*.pkl
+
+# Secrets
+.env
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+scratch/
