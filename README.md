@@ -39,7 +39,7 @@ Một hệ thống tích hợp đa nhiệm kết hợp giữa **Pipeline phân t
 ## ⚙️ Cài đặt & Sử dụng
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/nguyenson244/stock-ml-trading-pipeline.git
+   git clone https://github.com/nguyenson244/integrated-ml-platform.git
    ```
 2. **Cài đặt thư viện**:
    ```bash
